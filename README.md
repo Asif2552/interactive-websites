@@ -18,4 +18,6 @@ Interactive design is becoming an important part of modern web development. It i
 
 ---
 
+You checkout my whole page: https://curiouxify.com/ 
+
 ⭐ Feel free to explore and get inspired!
